@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar_container {
+    display: flex;
+    font-size: 1.4em;
+    padding-top: 10px;
+    color: white;
+    background-color: transparent;
+
+}
+
+.sideBar_list_container {
+    margin-top: 10px;
+    width: 20vw;
+}
+
+.sidebar_text {
+    padding-top: 2px;
+    padding-left: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.sidebar_list_detail {
+    width: 78vw;
+    height: 80vh;
+    border: 5px solid red;
+    margin-top: 10px;
+    background-color: rgba(99, 99, 109, 0.363);
+}
